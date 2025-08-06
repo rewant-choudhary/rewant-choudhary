@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">hey there 👋 <br>😄I am Rewant Choudhary😎</h1>
+<h1 align="center">hey 👋 <br>😄I am Rewant Choudhary😎</h1>
 
 ###
 
